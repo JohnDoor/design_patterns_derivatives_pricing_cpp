@@ -13,7 +13,7 @@ It combines structured design patterns with financial modeling techniques, drawi
 
 Each folder contains a self-contained C++ mini-project with its own `main.cpp`, demonstrating a specific concept or model:
 
-<pre>```plaintext quant-finance-cpp/ │ ├── 01-option-pricing-simpleMC/ # Monte Carlo pricing for European options │ ├── main.cpp │ ├── Random1.cpp / Random1.h │ └── CMakeLists.txt │ ├── 02-.../ # (Future modules) │ └── README.md ```<pre>
+```plaintext quant-finance-cpp/ │ ├── 01-option-pricing-simpleMC/ # Monte Carlo pricing for European options │ ├── main.cpp │ ├── Random1.cpp / Random1.h │ └── CMakeLists.txt │ ├── 02-.../ # (Future modules) │ └── README.md ```
 
 ## 📌 Dependencies
 
