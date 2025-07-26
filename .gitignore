@@ -1,1 +1,19 @@
 .vs/
+* .exe
+* .obj
+* .pdb
+* .ipch
+* .suo
+* .user
+* .aps
+* .ncb
+* .opensdf
+* .sdf
+* .cache
+* .ilk
+* .log
+* .tlog
+* .VC.db
+.vscode /
+Debug /
+Release /
