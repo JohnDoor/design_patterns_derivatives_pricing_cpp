@@ -60,6 +60,10 @@ cd 01-option-pricing-simpleMC
 g++ main.cpp Random1.cpp -o simpleMC.exe
 ./simpleMC.exe
 ```
+### 📚 Copyright & Attribution
+
+Much of the code in this repository is adapted from examples and exercises found in "C++ Design Patterns and Derivatives Pricing" by Mark Joshi.
+My contributions are limited to minor adaptations for learning and experimentation purposes.
 
 ### ✍️ Author
 
